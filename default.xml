@@ -624,4 +624,8 @@
 
   <!-- external repos -->
   <include name="oreo/external.xml" />
+
+  <!-- gapps -->
+  <include name="oreo/opengapps.xml" />
+
 </manifest>
